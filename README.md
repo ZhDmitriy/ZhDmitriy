@@ -8,3 +8,5 @@ A few facts about me:
 3. I am building DWH from scratch in a startup with a turnover of 1.5 billion rubles.
 4. I study every day. I work to study. I'm studying to work.
 5. I was a marketer and built my startup.
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
