@@ -1,4 +1,4 @@
-![Header](./https://github.com/ZhDmitriy/ZhDmitriy/assets/141666797/9be1d9c7-14e8-496f-817d-1db493e9a338)
+![Header](https://github.com/ZhDmitriy/ZhDmitriy/assets/141666797/a0369d98-09fc-413d-9b38-aeb16dec744e)
 
 Hi!
 
