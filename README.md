@@ -1,3 +1,9 @@
+Я Дмитрий. 
+
+Дата инженер и аналитик. Работал в Банки.ру, небольшом стратапе DataSfera и сейчас работаю в торговой компании, где собираю данные и предоставляю ключевую отчетность по проектам компании. 
+
+Для прокачки скиллов прохожу курс по дата инженерии от Карпова, 34 поток. Закончил университет по направлению прикладной информатики. 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
