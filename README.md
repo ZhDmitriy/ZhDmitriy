@@ -13,6 +13,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZhDmitriy)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhDmitriy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
