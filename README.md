@@ -11,5 +11,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+#E97627
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZhDmitriy&theme=dark&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
